@@ -59,7 +59,7 @@ Agar shu yerni o'zida online ishlatib ko'rishni istasangiz ,[" Aviakompaniya(cus
 <strong>Model aniqligi :</strong><br>
 * accuracy_score - 0.952
 * ROC curve :
-<img src="download.png" alt="roc curve" width="500" height="600">
+<img src="download.png" alt="roc curve">
 <br><br>
 <strong>Ishlatilgan texnologiya va modullar :</strong><br>
 <ul>
